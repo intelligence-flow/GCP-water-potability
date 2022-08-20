@@ -15,8 +15,7 @@ En cuanto al modelo puesto en producción, la arquitectura desarrollada se divid
 
 ## Arquitectura
 ### Esquema
-!['imagen esquema arquitectura CGP']('.\images\architecture_wp_GCP.png')
-
+![imagen esquema arquitectura CGP](../images/architecture_wp_GCP.png)
 
 
 ### Descripción de los elementos de la arquitectura
